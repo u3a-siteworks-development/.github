@@ -45,7 +45,7 @@ After importing the site, switch on 'One-click admin' and you will be able to ac
 
 * Either:
   * Download the three main zip files (u3a-siteworks-core, u3a-siteworks-configuration and u3a-siteworks-contact_form) from our [update site (link needed)](https://github.com/u3a-siteworks-development/.github/edit/main/README.md)).
-  * Download the theme (u3a-siteworks-theme) from the same [site (link needed)]([link-needed](https://github.com/u3a-siteworks-development/.github/edit/main/README.md)) 
+  * Download the theme (u3a-siteworks-theme) from the same [site (link needed)](https://github.com/u3a-siteworks-development/.github/edit/main/README.md)) 
 * Or: 
   * Check out the plugin repositories associated with this organization - each repository base directory can be copied into the plugins directory and activated.
 
