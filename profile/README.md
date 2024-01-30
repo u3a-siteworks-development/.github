@@ -1,4 +1,4 @@
-# U3a SiteWorks Organization README
+# u3a SiteWorks Organization README
 
 Welcome.
 
@@ -6,7 +6,7 @@ This organization belongs to the national [University of the Third Age (u3a)](ht
 
 ## About the u3a
 
-U3a is a UK-wide movement of 1000+ charities that create the opportunity for members to come together 
+The u3a is a UK-wide movement of 1000+ charities that create the opportunity for members to come together 
 to share skills and learn for fun. The u3a is composed of a collection of groups (u3as) that run local and 
 online member-led learning across the UK, in particular for those no longer in full time work. Each u3a has its own web site, and these
 are currently migrating towards SiteWorks from the older [SiteBuilder system](https://u3asites.org.uk/code/index.php) 
