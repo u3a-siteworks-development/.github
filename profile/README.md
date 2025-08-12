@@ -8,13 +8,12 @@ This organization belongs to the national [University of the Third Age (u3a)](ht
 
 The u3a is a UK-wide movement of 1000+ charities that create the opportunity for members to come together 
 to share skills and learn for fun. The u3a is composed of a collection of groups (u3as) that run local and 
-online member-led learning across the UK, in particular for those no longer in full time work. Each u3a has its own web site, and these
-are currently migrating towards SiteWorks from the older [Site Builder system](https://u3asites.org.uk/code/index.php) 
+online member-led learning across the UK, in particular for those no longer in full time work. Each u3a has its own web site, and many of these websites now the use the u3a-Siteworks softarew and hosting service.
 
 ## About u3a SiteWorks
 
 The [Siteworks project](https://siteworks.u3a.org.uk/) is a development group whose purpose is to define and 
-develop common functionality shared by all u3a websites to provide a framework for a common look and feel without compromising on flexibility of content. 
+develop common functionality shared by many u3a websites to provide a framework for a common look and feel without compromising on flexibility of content. 
 
 This framework is composed of a custom WordPress theme which delivers the common style and a cluster of WordPress plugins which supply  
 customisable basic features such group lists, event lists, venues and contact pages. 
@@ -23,7 +22,10 @@ These plugins and theme are all in the repositories associated with this organiz
 
 Siteworks has a [developer forum](https://u3awpdev.org.uk/) including more detailed [instructions](https://u3awpdev.org.uk/viewtopic.php?t=193) than those in the following paragraphs.
 
+## Devlopment of the software
 The plugins and theme are open source and licensed under [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) for public use.
+Development of the software is carried out by members of this u3a-siteworks-development GitHub Organisation. Everyone in the team has at least write access and some have administration access. If a member of the team feels they need more access rights, then they may request any administrator to change them.
+All development team guidance and procedures are held in [the documentation repository](https://github.com/u3a-siteworks-development/u3a-siteworks-documentation).
 
 ## Trying Siteworks for yourself
 
