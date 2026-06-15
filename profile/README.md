@@ -55,9 +55,9 @@ After importing the site, switch on 'One-click admin' and you will be able to ac
 
 * Optionally install these additional plugins that are included with the 'Local' demo system:
 	* [u3a SiteWorks Maintenance Mode](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-siteworks-mm.zip) - Provides a maintenance mode in with the site is unavailable to visitors but editable by administrators.
-        * [u3a SiteWorks Dashboard](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-siteworks-dashboard.zip) - Adds  siteworks information panel to the WordPress dashboard.
-        * [u3a SiteWorks Import Export](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-importexport.zip) - Facilitates the export and import of groups, venues, contacts and events from a siteworks site to CSV.
-        * Gallery and Image Block Lightbox - https://en-gb.wordpress.org/plugins/gallery-block-lightbox/
-        * IMSanity - https://en-gb.wordpress.org/plugins/imsanity/
-        * Meta Field Block - https://en-gb.wordpress.org/plugins/display-a-meta-field-as-block/
-        * Gutenslider - https://wordpress.org/plugins/gutenslider/
+    * [u3a SiteWorks Dashboard](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-siteworks-dashboard.zip) - Adds  siteworks information panel to the WordPress dashboard.
+    * [u3a SiteWorks Import Export](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-importexport.zip) - Facilitates the export and import of groups, venues, contacts and events from a siteworks site to CSV.
+    * Gallery and Image Block Lightbox - https://en-gb.wordpress.org/plugins/gallery-block-lightbox/
+    * IMSanity - https://en-gb.wordpress.org/plugins/imsanity/
+    * Meta Field Block - https://en-gb.wordpress.org/plugins/display-a-meta-field-as-block/
+    * Gutenslider - https://wordpress.org/plugins/gutenslider/
