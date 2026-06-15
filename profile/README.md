@@ -46,8 +46,8 @@ After importing the site, switch on 'One-click admin' and you will be able to ac
 * Install and activate the Meta Box plugin by metabox.io. It is essential that this is activated before activating the SiteWorks core plugin.
 
 * Either:
-  * Download the three main zip files (u3a-siteworks-core, u3a-siteworks-configuration and u3a-siteworks-contact_form) from <TBD>.
-  * Download the theme (u3a-siteworks-theme) from the same location. 
+  * Download the three main zip files [u3a-siteworks-core](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-siteworks-core.zip), [u3a-siteworks-configuration](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-siteworks-configuration.zip) and [u3a-siteworks-contact_form](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-siteworks-contact-form.zip).
+  * Download the theme [u3a-siteworks-theme](http://siteworks.u3a.org.uk/wp-update-server/packages/u3a-siteworks-theme.zip). 
 * Or: 
   * Check out the plugin repositories associated with this organization - each repository base directory can be copied into the plugins directory and activated. The main branch contains the latest development version, and the highest numbered release branch contains the current stable version.
 
